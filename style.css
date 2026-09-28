@@ -338,15 +338,12 @@ body {
 }
 
 
-/* =========================================
-   HERO
-========================================= */
 
 .rooms-hero {
     height: 285px;
 
     background-image:
-        url("../web100/images/babalololo.jpg");
+        url("img/babalololo.jpg");
 
     background-size: cover;
     background-position: center;
